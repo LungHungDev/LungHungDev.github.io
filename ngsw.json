@@ -1,0 +1,151 @@
+{
+  "configVersion": 1,
+  "timestamp": 1709358536615,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chunk-FLW4W6U5.js",
+        "/chunk-U3O3BE3Y.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-4MJL3QER.js",
+        "/manifest.webmanifest",
+        "/polyfills-RT5I6R6G.js",
+        "/styles-IJ4MC5AI.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/cosplay-list.json",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/resource/Comic Collection.json",
+        "/assets/resource/Coser@BamBi.json",
+        "/assets/resource/Coser@Ely_eee(ElyEE子).json",
+        "/assets/resource/Coser@Joyce Lin.json",
+        "/assets/resource/Coser@SayoMomo.json",
+        "/assets/resource/Coser@yuuhui玉汇.json",
+        "/assets/resource/Coser@けん研 (けんけん).json",
+        "/assets/resource/Coser@九言.json",
+        "/assets/resource/Coser@发条少女 (迷之呆梨).json",
+        "/assets/resource/Coser@小仓千代w.json",
+        "/assets/resource/Coser@小密.json",
+        "/assets/resource/Coser@星之迟迟 NIKKE SODA.json",
+        "/assets/resource/Coser@星之迟迟 Nikke 米哈拉.json",
+        "/assets/resource/Coser@星之迟迟.json",
+        "/assets/resource/Coser@星之迟迟《Darling》能代.json",
+        "/assets/resource/Coser@星之迟迟《Darling》镇海-奇奢华苑.json",
+        "/assets/resource/Coser@水淼Aqua 娜美.json",
+        "/assets/resource/Coser@水淼Aqua.json",
+        "/assets/resource/Coser@瓜希酱.json",
+        "/assets/resource/Coser@疯猫ss.json",
+        "/assets/resource/Coser@神楽坂真冬.json",
+        "/assets/resource/Coser@織泱.json",
+        "/assets/resource/Coser@蜜桃少女是依酱呀.json",
+        "/assets/resource/Coser@雨波 HaneAme - MAMAKO.json",
+        "/assets/resource/Coser@雨波 HaneAme - Olga Discordia.json",
+        "/assets/resource/Coser@面饼仙儿.json",
+        "/assets/resource/Coser@馬卡.json",
+        "/assets/resource/Cosplay Collection 2.json",
+        "/assets/resource/Cosplay Collection 3.json",
+        "/assets/resource/Cosplay Collection 4.json",
+        "/assets/resource/Cosplay Collection.json",
+        "/assets/resource/rename_filename.js",
+        "/assets/resource/波奇.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/cosplay-list.json": "e3f8fe8d2bf880ed96dcd464307ba1842b6a720e",
+    "/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/assets/resource/Comic Collection.json": "d02418923927d542de0df6875b85ffde614bf0b0",
+    "/assets/resource/Coser@BamBi.json": "07bf5a2b38c404f7cd22b077b4148a7a0f0a62f9",
+    "/assets/resource/Coser@Ely_eee(ElyEE子).json": "5cd6996d1034e5bae5f467a273365704d451f201",
+    "/assets/resource/Coser@Joyce Lin.json": "b64ecb818bff3c054c537f3ec6cb6cde1691a94a",
+    "/assets/resource/Coser@SayoMomo.json": "dd397cbe6b86c8cf1b5a02ac96795bb65d78f36a",
+    "/assets/resource/Coser@yuuhui玉汇.json": "6bd747a07754328ff2ee9788b8168e09fc184881",
+    "/assets/resource/Coser@けん研 (けんけん).json": "632ee59a532fb666d8a5c0c7973f0fb8708ccbd8",
+    "/assets/resource/Coser@九言.json": "1aaa9e1ce9655e80f031711eeb811ad263b774f8",
+    "/assets/resource/Coser@发条少女 (迷之呆梨).json": "97e4e2e8ef3e570dc9c13abf957e0fa4bfc00019",
+    "/assets/resource/Coser@小仓千代w.json": "a682c7a05db1c5d5271061b7bfbef07dd6c9f61d",
+    "/assets/resource/Coser@小密.json": "a102ca719ba9ebe41c623001d9c4c2fb69ef858f",
+    "/assets/resource/Coser@星之迟迟 NIKKE SODA.json": "7571871c82a67ebdab5899aeef601dbc73340944",
+    "/assets/resource/Coser@星之迟迟 Nikke 米哈拉.json": "154321fda6b97d614b7bb88af44ff7e2771dab21",
+    "/assets/resource/Coser@星之迟迟.json": "d06782ed10465e5cccee728ced6c0a46a05bdca1",
+    "/assets/resource/Coser@星之迟迟《Darling》能代.json": "69dc664b018df471caad4ce526c23f5f002e1a5d",
+    "/assets/resource/Coser@星之迟迟《Darling》镇海-奇奢华苑.json": "3029ea7410cd93edfc34f1a7b88df5bdf795e032",
+    "/assets/resource/Coser@水淼Aqua 娜美.json": "e32ada429bf6d669b7f342537aaa7576cbf8c6d0",
+    "/assets/resource/Coser@水淼Aqua.json": "42099569b291c94f514416b79712cc90c91674c7",
+    "/assets/resource/Coser@瓜希酱.json": "ba86d1b644f9faa0e7dbf2af6282b2fa231a2893",
+    "/assets/resource/Coser@疯猫ss.json": "86fcadc05f7c47a1a23fefd88f4e313bc7b643d5",
+    "/assets/resource/Coser@神楽坂真冬.json": "8d379f7d0c5279c91b4afeb1b36f4edb0348e3a9",
+    "/assets/resource/Coser@織泱.json": "95c8e923c99eefc4d5322cb8076b449d85c96f63",
+    "/assets/resource/Coser@蜜桃少女是依酱呀.json": "7651e7a086b9d1f2caae9fe8f4e2653baaa0b0dc",
+    "/assets/resource/Coser@雨波 HaneAme - MAMAKO.json": "0b959f6e062d4a42d3af625ca06c07e2ee4e3f50",
+    "/assets/resource/Coser@雨波 HaneAme - Olga Discordia.json": "7ed81ef88d94ccc645613c8833468b5d135485c1",
+    "/assets/resource/Coser@面饼仙儿.json": "ad7c3b8ec40af03a620ca30b2da2085ded6930e8",
+    "/assets/resource/Coser@馬卡.json": "9a4feb0797e6412cb6a84a375c5bbf8dcbd8d5a1",
+    "/assets/resource/Cosplay Collection 2.json": "72fe17db387f244de75424b4912dd69614a095f2",
+    "/assets/resource/Cosplay Collection 3.json": "45086cbea05c798e927a8d8c3a62acdba9cf4803",
+    "/assets/resource/Cosplay Collection 4.json": "19d71e943b30be86d250ee53fc739c7f41030f08",
+    "/assets/resource/Cosplay Collection.json": "17e16175275a0132f54887d6e152c3036287a9c8",
+    "/assets/resource/rename_filename.js": "a8891d5add7c975cb6db216f4110af5794df81cf",
+    "/assets/resource/波奇.json": "52bb22e2b774293a40452454ed2e7c6a94d95f58",
+    "/chunk-FLW4W6U5.js": "23990aaf32cc1e69afe360d0cc18feab08c04e63",
+    "/chunk-U3O3BE3Y.js": "d9e214e9bcc39c91a8e1101fe1fd9a6f15c62b31",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/index.html": "ebd0e041f63a41e6a35590f26ae728824a4f0c02",
+    "/main-4MJL3QER.js": "17149f6dd744602db1ef27b5efd2da1c03a67003",
+    "/manifest.webmanifest": "81923732112728f412d737b1ec7aeb169808d59e",
+    "/polyfills-RT5I6R6G.js": "fe9f024576f21ff6314cf8f8332cde58b9a12416",
+    "/styles-IJ4MC5AI.css": "2a75b6f08caa6aa20a5f4e91f432f3ee1b37f651"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
